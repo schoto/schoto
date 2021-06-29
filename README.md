@@ -10,4 +10,4 @@ Here are some ideas to get you started: -->
   
      Contact:
      schoto@protonmail.com
-<img align="center" src="https://github-readme-stats.vercel.app/api/<top-langs>/?username=<schoto>&theme=<THEME_NAME>" />
+
