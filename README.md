@@ -10,8 +10,8 @@ Here are some ideas to get you started: -->
   
      Contact:
      schoto@protonmail.com
-<a href="https://github.com/schoto">
-<img align="center" alt="kazbek's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=schoto&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=radical" /></a>
+
+
 <a href="https://github.com/schoto">
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=schoto&layout=compact&theme=radical" />
 </a>
