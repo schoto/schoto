@@ -1,7 +1,4 @@
-### Hi there 👋
-
-<img src="https://raw.githubusercontent.com/schoto/schoto/master/wave.gif" width="30px">
-
+### Hey folks, <img src="https://i.giphy.com/media/xUPGcigl4eOfc6hA5y/giphy.webp" width="30px">
 <!--
 **schoto/schoto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
