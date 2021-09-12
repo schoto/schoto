@@ -6,9 +6,7 @@ Here are some ideas to get you started: -->
 - 🔭 I’m currently working on simple projects with HTML/CSS/JS
 - 🌱 I’m learning also C# to better understand the basics of programming
 
-  
-     Contact:
-     schoto@protonmail.com
+
 
 
 <a href="https://github.com/schoto">
