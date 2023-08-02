@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **SQL, Python and dataviz tools**
 
-- 👨‍💻 All of my projects are available at [here on GitHub](here on GitHub)
+- 👨‍💻 All of my projects are available here
 
 - 📫 How to reach me **schoto@proton.me**
 
