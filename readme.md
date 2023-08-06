@@ -4,7 +4,6 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=schoto&label=Profile%20views&color=0e75b6&style=flat" alt="schoto" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=schoto" alt="schoto" /></a>
-<script src="https://tryhackme.com/badge/952880"></script>
 
 </p>
 
