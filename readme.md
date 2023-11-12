@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Kazbek</h1>
-<h3 align="center">A passionate cybersecurity and data analytics enthusiast</h3>
+<h3 align="center">A passionate cybersecurity and data analytics enthusiast, I document my THM (TryHackMe) learning path</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=schoto&label=Profile%20views&color=0e75b6&style=flat" alt="schoto" /> </p>
 
